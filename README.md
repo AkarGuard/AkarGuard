@@ -1,4 +1,4 @@
-# Hello my name is Emre
+# Hello we are AkarGang
 We are living in Turkey
 
 <img src="https://cdn.discordapp.com/attachments/805191051316297759/895431920605872200/diabloakar.gif" width="500" />
