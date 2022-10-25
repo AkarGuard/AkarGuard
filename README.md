@@ -1,7 +1,7 @@
-# Hello we are AkarGang
-We are living in Turkey
+# Hello we are AkarGuard
+We are living in Turkey / Germany / Belgium
 
-<img src="https://cdn.discordapp.com/attachments/805191051316297759/895431920605872200/diabloakar.gif" width="500" />
+<img src="https://www.hizliresim.com/oeujzb7" />
 
 ## My Social Media Acc:
 
