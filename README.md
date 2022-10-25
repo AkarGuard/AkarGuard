@@ -1,7 +1,7 @@
 # Hello we are AkarGuard
 We are living in Turkey / Germany / Belgium
 
-<img src="https://www.hizliresim.com/oeujzb7" />
+<img src="https://cdn.discordapp.com/attachments/1031646083539021847/1034411784372756490/akar.jpg" />
 
 ## My Social Media Acc:
 
