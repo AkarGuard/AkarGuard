@@ -3,11 +3,18 @@
 
 <img src="https://cdn.discordapp.com/attachments/1031646083539021847/1034411784372756490/akar.jpg" />
 
-## My Social Media Acc:
+<details>
+  <summary>WHO WE ARE</summary>
 
-- [AkarGang Discord](https://discord.gg/6zWuHBmxvX) My discord address
-- [Instagram](https://instagram.com/diabloakar) My Instagram address
-- [Youtube](https://www.youtube.com/channel/UCsNTY2G3WUQgUt3QHMWgBoQ) My Youtube address
+  1. English
+     We are young people living in Turkey, studying at university and wanting to advance in the fields of software and cyber security. We always wanted to help other        developer teams by sharing our projects as open source. We think that open source sharing is a project that can set an example for other young software                developers. We also have a cyber security company in the Republic of Turkey. Our goal as a company and team is to add something to the world of software and            cybersecurity. We are the AkarGuard team.
+  2. Türkçe
+    Türkiye'de yaşayan, üniversitede okuyan, yazılım ve siber güvenlik alanlarında ilerlemek isteyen gençleriz. Projelerimizi açık kaynak olarak paylaşarak her zaman       diğer geliştirici ekiplere yardımcı olmak istedik. Açık kaynak paylaşımının diğer genç yazılımcılara örnek olabilecek bir proje olduğunu düşünüyoruz. Türkiye           Cumhuriyeti'nde de bir siber güvenlik şirketimiz var. Şirket ve ekip olarak hedefimiz, yazılım ve siber güvenlik dünyasına bir şeyler katmaktır. Biz AkarGuard         ekibiyiz.
+
+
+</details>
+
+
 
 -  **"If you have any questions, feel free to ask.."** 
 
