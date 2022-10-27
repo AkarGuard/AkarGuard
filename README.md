@@ -15,19 +15,33 @@
   <details>
     <summary>OUR PROJECTS</summary>
         We have a few projects that we are currently developing.
-         ‏‏‏‏‏‏‏‏   
+              ‏‏‏‏‏‏‏‏   
         <details>
           <summary>AKARGUARD</summary>
         AkarGuard = It is a project that prevents DDoS / DoS attacks at all layers with its artificial intelligence. When we did stress tests in our project, it met           814GB requests in 24 hours and proved itself without crashing.
         </details>
+        <details>
+          <summary>AKARGUARD DDoS Stresser</summary>
+             The AkarGuard DDoS Stresser project is stress-tested by sending a large amount of requests to a site with permission to test it. We analyze the high                    demand load on the site and start working on the necessary protection measures.
+        </details>
+        <details>
+          <summary>AkarGuard Servers</summary>
+             We host AkarGuard servers within our own structure. We sponsor many famous people, institutions and popular games. Where's we sponsors: "Dungeon Rampage,                Can Foster, dStat"
+        </details>
+        <details>
+          <summary>TurnLab PDF viewer</summary>
+             Some of the departments we studied at the university were done by distance education. Sometimes we couldn't keep up with the instructor's pace or we had                to check some parts from the previous pages. Therefore, as a project, we share this system as open source for distance education students.
+        </details>
+    
   </details>
 
 </details>
 
 <details>
-  <summary>BİZ KİMİZ?</summary>
- ## Türkçe
+  <summary>TÜRKÇE</summary>
+    <details>
     Türkiye'de yaşayan, üniversitede okuyan, yazılım ve siber güvenlik alanlarında ilerlemek isteyen gençleriz. Projelerimizi açık kaynak olarak paylaşarak her zaman       diğer geliştirici ekiplere yardımcı olmak istedik. Açık kaynak paylaşımının diğer genç yazılımcılara örnek olabilecek bir proje olduğunu düşünüyoruz. Türkiye           Cumhuriyeti'nde de bir siber güvenlik şirketimiz var. Şirket ve ekip olarak hedefimiz, yazılım ve siber güvenlik dünyasına bir şeyler katmaktır. Biz AkarGuard         ekibiyiz.
+    </details>
 
 
 </details>
