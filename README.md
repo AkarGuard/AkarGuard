@@ -19,7 +19,7 @@
         <details>
           <summary>AKARGUARD</summary>
         AkarGuard = It is a project that prevents DDoS / DoS attacks at all layers with its artificial intelligence. When we did stress tests in our project, it met           814GB requests in 24 hours and proved itself without crashing.
-  </details>
+        </details>
   </details>
 
 </details>
