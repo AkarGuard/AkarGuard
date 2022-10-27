@@ -4,8 +4,8 @@
 <img src="https://cdn.discordapp.com/attachments/1031646083539021847/1034411784372756490/akar.jpg" />
 
 <details>
-  <summary>English</summary>
-     This page for English
+  <summary>ENGLISH</summary>
+     ‏‏‏‏‏‏‏‏   
      
   <details>
     <summary>WHO WE ARE?</summary>
@@ -13,7 +13,7 @@
   </details>
   
   <details>
-    <summary>Our projects</summary>
+    <summary>OUR PROJECTS</summary>
        We have a few projects that we are currently developing.                                                                                                    
        AkarGuard = It is a project that prevents DDoS / DoS attacks at all layers with its artificial intelligence. When we did stress tests in our project, it met            814GB requests in 24 hours and proved itself without crashing.
   </details>
