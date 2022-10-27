@@ -50,7 +50,7 @@
   <details>
     <summary>PROJELERİMİZ</summary>
        Şu anda geliştirmekte olduğumuz birkaç projemiz var.
-    ‏‏‏‏‏‏‏‏   
+              ‏‏‏‏‏‏‏‏   
     
         <details>
           <summary>AkarGuard</summary>
