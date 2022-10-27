@@ -14,7 +14,7 @@
   
   <details>
     <summary>Our projects</summary>
-       We have a few projects that we are currently developing.
+       We have a few projects that we are currently developing.                                                                                                    
        AkarGuard = It is a project that prevents DDoS / DoS attacks at all layers with its artificial intelligence. When we did stress tests in our project, it met            814GB requests in 24 hours and proved itself without crashing.
   </details>
 
