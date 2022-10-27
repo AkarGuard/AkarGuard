@@ -56,14 +56,17 @@
           <summary>AkarGuard</summary>
         AkarGuard = Yapay zekası ile tüm katmanlarda DDoS/DoS saldırılarını engelleyen bir projedir. Projemizde stres testleri yaptığımızda 24 saat içinde 814GB               talepleri karşıladı ve çökmeden kendini kanıtladı.
         </details>
+    
         <details>
           <summary>AKARGUARD DDoS Stresser</summary>
              AkarGuard DDoS Stresser projesi, test izni olan bir siteye çok sayıda istek gönderilerek stres testi yapılır. Sahadaki yüksek talep yükünü analiz ediyor                ve gerekli koruma önlemleri üzerinde çalışmaya başlıyoruz.
         </details>
+    
         <details>
           <summary>AkarGuard Servers</summary>
              AkarGuard sunucularını kendi bünyemizde barındırmaktayız. Birçok ünlü kişi, kurum ve popüler oyuna sponsor oluyoruz. Sponsor olduğumuz yer= Dungeon                    Rampage, Can Foster, dStat
         </details>
+    
         <details>
           <summary>TurnLab PDF viewer</summary>
              Üniversitede okuduğumuz bölümlerin bir kısmı uzaktan eğitimle yapılıyordu. Bazen hocanın hızına yetişemedik ya da önceki sayfalardan bazı bölümleri                    kontrol etmek zorunda kaldık. Bu nedenle proje olarak bu sistemi uzaktan eğitim öğrencileri için açık kaynak olarak paylaşıyoruz.
