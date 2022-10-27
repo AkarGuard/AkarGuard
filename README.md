@@ -40,6 +40,7 @@
 <details>
   <summary>TÜRKÇE</summary>
     <details>
+      <summary>BİZ KİMİZ?</summary>
     Türkiye'de yaşayan, üniversitede okuyan, yazılım ve siber güvenlik alanlarında ilerlemek isteyen gençleriz. Projelerimizi açık kaynak olarak paylaşarak her zaman       diğer geliştirici ekiplere yardımcı olmak istedik. Açık kaynak paylaşımının diğer genç yazılımcılara örnek olabilecek bir proje olduğunu düşünüyoruz. Türkiye           Cumhuriyeti'nde de bir siber güvenlik şirketimiz var. Şirket ve ekip olarak hedefimiz, yazılım ve siber güvenlik dünyasına bir şeyler katmaktır. Biz AkarGuard         ekibiyiz.
     </details>
 
