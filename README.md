@@ -11,6 +11,14 @@
     <summary>WHO WE ARE?</summary>
         We are young people living in Turkey, studying at university and wanting to advance in the fields of software and cyber security. We always wanted to help             other developer teams by sharing our projects as open source. We think that open source sharing is a project that can set an example for other young software           developers. We also have a cyber security company in the Republic of Turkey. Our goal as a company and team is to add something to the world of software and           cybersecurity. We are the AkarGuard team.
   </details>
+  <details>
+    <summary>Our projects</summary>
+       We have a few projects that we are currently developing.
+
+      AkarGuard = It is a project that prevents DDoS / DoS attacks at all layers with its artificial intelligence. When we did stress tests in our project, it met           814GB requests in 24 hours and proved itself without crashing.
+
+
+</details>
 </details>
 
 <details>
@@ -23,15 +31,7 @@
 
 </details>
 
-<details>
-  <summary>Our projects</summary>
- ## English
-    We have a few projects that we are currently developing.
 
-   AkarGuard = It is a project that prevents DDoS / DoS attacks at all layers with its artificial intelligence. When we did stress tests in our project, it met 814GB      requests in 24 hours and proved itself without crashing.
-
-
-</details>
 
 -  **"If you have any questions, feel free to ask.."** 
 
