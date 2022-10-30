@@ -77,6 +77,6 @@
 
 
 
--  **"If you have any questions, feel free to ask.."** 
+-  **" Illegal services will not last forever and it is your main source of income. "** 
 
-- Signed by AkarGang
+- Signed by AkarGuard
