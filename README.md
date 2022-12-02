@@ -52,7 +52,7 @@
     
   <details>
           <summary>AkarGuard</summary>
-        AkarGuard = Yapay zekası ile tüm katmanlarda DDoS/DoS saldırılarını engelleyen bir projedir. Projemizde stres testleri yaptığımızda 2 saat içinde 1.27YB               talepleri karşıladı ve çökmeden kendini kanıtladı. (01.12.2022)
+        AkarGuard = Yapay zekası ile tüm katmanlarda DDoS/DoS saldırılarını engelleyen bir projedir. Projemizde stres testleri yaptığımızda 2 saat içinde 1.27TB               talepleri karşıladı ve çökmeden kendini kanıtladı. (01.12.2022)
         </details>
     
   <details>
