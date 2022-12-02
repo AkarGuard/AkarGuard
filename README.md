@@ -17,7 +17,7 @@
     
   <details>
           <summary>AkarGuard</summary>
-        AkarGuard = It is a project that prevents DDoS / DoS attacks at all layers with its artificial intelligence. When we did stress tests in our project, it met           814GB requests in 24 hours and proved itself without crashing.
+        AkarGuard = It is a project that prevents DDoS / DoS attacks at all layers with its artificial intelligence. When we did stress tests in our project, it met           1.27 TB requests in 2 hours and proved itself without crashing. (01.12.2022)
       </details>
         <details>
           <summary>AkarGuard DDoS Stresser</summary>
@@ -52,7 +52,7 @@
     
   <details>
           <summary>AkarGuard</summary>
-        AkarGuard = Yapay zekası ile tüm katmanlarda DDoS/DoS saldırılarını engelleyen bir projedir. Projemizde stres testleri yaptığımızda 24 saat içinde 814GB               talepleri karşıladı ve çökmeden kendini kanıtladı.
+        AkarGuard = Yapay zekası ile tüm katmanlarda DDoS/DoS saldırılarını engelleyen bir projedir. Projemizde stres testleri yaptığımızda 2 saat içinde 1.27YB               talepleri karşıladı ve çökmeden kendini kanıtladı. (01.12.2022)
         </details>
     
   <details>
