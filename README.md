@@ -1,7 +1,7 @@
 # Hello we are AkarGuard
 ## We are living in Turkey / Germany / Belgium / Georgia
 
-<img src="https://cdn.discordapp.com/attachments/1031646083539021847/1034411784372756490/akar.jpg" />
+<img src="https://media.discordapp.net/attachments/1007962138872135810/1056998002423775242/hero-logo-white.png" />
 
 <details>
   <summary>ENGLISH</summary>
